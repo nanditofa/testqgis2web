@@ -38,7 +38,7 @@ var styleJSON = {
             "type": "line",
             "source": "Admin_DIYKabKotamerged_1",
             "layout": {},
-            "paint": {'line-width': 1.2857142857142856, 'line-opacity': 1.0, 'line-color': '#ffffff'}
+            "paint": {'line-width': 1.2857142857142856, 'line-opacity': 1.0, 'line-color': '#fffd6d'}
         }
 ],
 }
